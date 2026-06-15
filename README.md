@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Mariia Fetisova 👋
 
-<!--
-**mariiayukhman-lgtm/mariiayukhman-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst passionate about transforming data into meaningful business insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- BigQuery
+- Python (Pandas)
+- Tableau
+- Google Analytics 4
+- Data Visualization
+- Dashboard Development
+- A/B Testing
+
+## 📊 Featured Projects
+
+### User Retention Analysis
+SQL cohort analysis project focused on customer retention and user behavior.
+
+### Stack Overflow Survey Analysis
+Exploratory data analysis using Python and Pandas.
+
+### SaaS Revenue Dashboard
+Interactive Tableau dashboard for business performance monitoring.
+
+## 🎓 Certifications
+
+- Data Analytics Certificate — GoIT (2026)
+
+## 🌍 Connect with me
+
+- LinkedIn: linkedin.com/in/mariia-yukhman
+- Email: mariia.yukhman@gmail.com
