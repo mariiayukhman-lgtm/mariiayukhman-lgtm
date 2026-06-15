@@ -14,6 +14,27 @@ Junior Data Analyst passionate about transforming data into meaningful business 
 - A/B Testing
 
 ## 📊 Featured Projects
+### GA4 Ecommerce Conversion Funnel Analysis
+
+End-to-end analytics project using Google Analytics 4 public dataset in BigQuery.
+
+Tools:
+- BigQuery
+- SQL
+- Tableau
+- GA4
+
+Key focus:
+- Conversion funnel analysis
+- Traffic source performance
+- Device segmentation
+- Landing page analysis
+
+Repository:
+https://github.com/mariiayukhman-lgtm/GA4-Ecommerce-Conversion-Funnel-Analysis
+
+Dashboard:
+https://public.tableau.com/views/DA4_Final_Project_2026/GA4ConversionFunnelAnalysis
 
 ### User Retention Analysis
 SQL cohort analysis project focused on customer retention and user behavior.
