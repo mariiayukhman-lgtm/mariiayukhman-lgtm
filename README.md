@@ -29,12 +29,9 @@ Key focus:
 - Traffic source performance
 - Device segmentation
 - Landing page analysis
+Repository: [GitHub Repository](https://github.com/mariiayukhman-lgtm/GA4-Ecommerce-Conversion-Funnel-Analysis)
 
-Repository:
-https://github.com/mariiayukhman-lgtm/GA4-Ecommerce-Conversion-Funnel-Analysis
-
-Dashboard:
-https://public.tableau.com/views/DA4_Final_Project_2026/GA4ConversionFunnelAnalysis
+Dashboard: [Interactive Tableau Dashboard](https://public.tableau.com/views/DA4_Final_Project_2026/GA4ConversionFunnelAnalysis)
 
 ### User Retention Analysis
 SQL cohort analysis project focused on customer retention and user behavior.
